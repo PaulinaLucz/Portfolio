@@ -6,7 +6,7 @@ My name is Paulina Łuczyńska. I am an MSc by education Mechanic and Machine Bu
   - [Jira](https://www.atlassian.com/software/jira0) - Atlassian's closed-source software for bug tracking and project management
   - [Trello](https://trello.com/) - Issue tracking and project management tool for developers
   - [TestLink](https://testlink.org/) - Open source test management
-  - [Github]
+  - [Github](https://github.com/PaulinaLucz)
 # Tech skills
   - SQL
   - JavaScript
